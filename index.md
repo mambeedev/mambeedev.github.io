@@ -90,6 +90,7 @@
   </li>
 </ul>
 
+<hr/>
 
 <h3>Tester</h3>
 <ul>
@@ -103,7 +104,7 @@
   </li>
 </ul>
 
-
+<hr/>
 
 <h3>Design UX</h3>
 <ul>
@@ -118,6 +119,7 @@
   </li>
 </ul>
 
+<hr/>
 
 <h3>Para Todos</h3>
 <ul>
