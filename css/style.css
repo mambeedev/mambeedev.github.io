@@ -1,3 +1,7 @@
+.site-header {
+    border-top: 5px solid #ad4e70 !important;
+}
+
 .wrapper .site-title{
     color: #ad4e70;
 }
