@@ -6,6 +6,10 @@
     color: #ad4e70;
 }
 
+h3, h4{
+    margin-bottom: 0 !important;
+    margin-top: 10px !important;
+}
 
 h3{
     color: #ad4e70;
