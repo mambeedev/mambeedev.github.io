@@ -1,8 +1,8 @@
-.site-title, .title{
+.wrapper .site-title{
     color: #ad4e70;
 }
 
 
-.txt-center{
-    text-align:center;
+.title{
+    color: #d76b69;
 }
