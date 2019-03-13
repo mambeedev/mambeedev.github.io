@@ -1,15 +1,6 @@
 <link href="/css/style.css" rel="stylesheet">
 
-<div class="txt-center">
-  <img class="avatar" alt="Mambee" src="/img/mambee.png"/>
-</div>
-
-<h3 class="title">Mambee - Fábrica Escola de Software do IFPI Campus Picos</h3>
-<p class="txt-center">
-  
-</p>
-
-<h3 class="title">Material de Estudos</h3>
+<h2 class="title">Material de Estudos</h2>
 <h4>Documentação</h4>
 <ul>
   <li>
@@ -35,15 +26,12 @@
      <li>
     <a href="https://br.vuejs.org/v2/style-guide/index.html" target="_blank"> Guia de Estilo do Vue.js (Português)</a>
   </li>
-    </li>
      <li>
     <a href="https://vuetifyjs.com/pt-BR/" target="_blank">Vuetify (Português) </a>
   </li>
-    </li>
      <li>
     <a href="https://nodejs.org/en/docs/" target="_blank"> Node.js (Inglês) </a>
   </li>
-    </li>
      <li>
     <a href="https://expressjs.com/pt-br/" target="_blank"> Express (Português) </a>
   </li>
@@ -58,9 +46,9 @@
      <li>
     <a href="https://cursos.nodebr.org/" target="_blank"> Nodejs - Nodebr (Grátis) </a>
   </li>
-    </li>
      <li>
     <a href=" https://www.udemy.com/vue-js-completo/" target="_blank"> Vue.js Completo - Udemy </a>
+    </li>
 </ul>
 
 <h4>Livros/eBooks</h4>
