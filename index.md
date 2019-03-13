@@ -35,6 +35,9 @@
      <li>
     <a href="https://expressjs.com/pt-br/" target="_blank"> Express (Português) </a>
   </li>
+  <li>
+    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Git  (Português) </a>
+  </li>
 </ul>
 
 <h4>Cursos</h4>
