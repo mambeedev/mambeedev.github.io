@@ -1,6 +1,6 @@
 <link href="/css/style.css" rel="stylesheet">
 
-<h2 class="title">Material de Estudos</h2>
+<p>Abaixo segue uma lista de tecnologias e ferramentas que utilizados em nossos projetos.</p>
 <h3>Fundamendos</h3>
 <ul>
   <h4>Web</h4>
@@ -84,7 +84,7 @@
   </li>
 </ul>
 
-<h3>Tecnologias Específicas</h3>
+<h3 class="title">Tecnologias Específicas</h3>
 <ul>
   <h4>Vue.js</h4>
   <li>
