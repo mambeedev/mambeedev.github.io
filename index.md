@@ -1,6 +1,6 @@
 <link href="/css/style.css" rel="stylesheet">
 
-<p>Abaixo segue uma lista de tecnologias e ferramentas que utilizados em nossos projetos.</p>
+<p>Abaixo segue uma lista dos perfis que existem na Mambee.</p>
 <p>Se você é um mambeer ou deseja ser, estude e domine pelo menos uma das áreas listadas abaixo.</p>
 <h3>Web Development</h3>
 <ul>
