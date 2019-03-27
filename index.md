@@ -132,7 +132,7 @@
     (Comandos básicos do Git) </a>
   </li>
   <li>
-    Servidor/Cloud: AWS ou Heroku
+    <b>Servidor/Cloud:</b> AWS ou Heroku
   </li>
   <li>
    Back-end: Node.js, Express, Mocha, Supertest, Mongodb, PostgresSQL
