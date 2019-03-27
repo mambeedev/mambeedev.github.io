@@ -134,13 +134,12 @@
   </li>
 </ul>
   <h3>Processo de desenvolvimento de Software</h3>
-<p>
   <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nosso Processo </a>
-</p>
+
   <h3>Arquitetura Padrão</h3>
-  <p>
+
   <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nossa Arquitetura Padrão </a>
-</p>
+
 
 
 
