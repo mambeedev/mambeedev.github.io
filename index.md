@@ -121,26 +121,32 @@
 
 <hr/>
 
-
   <h3>Ferramentas e Tecnologias</h3>
 <ul>
-  <li><span>Gestão:
+  <li>Gestão:
     <a href="https://dev.azure.com" target="_blank"> 
-  Azure DevOps</a></span>
+  Azure DevOps</a>
   </li>
-  <li><span>Controle de versão: Gitlab ou Github 
+  <li>Controle de versão: Gitlab ou Github 
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
-    (Comandos básicos do Git) </a></span>
+    (Comandos básicos do Git) </a>
+  </li>
+    <li>
+    Servidor/Cloud: AWS ou Heroku
+  </li>
+      <li>
+   Back-end: Node.js, Express, Mocha, Supertest, Mongodb, PostgresSQL
+  </li>
+      <li>
+  Front-end: Vue.js, Vuetify, Cypress
+  </li>
+      <li>
+   CI/DI: Gitlab CI ou CircleCI
   </li>
 </ul>
   <h3>Processo de desenvolvimento de Software</h3>
-  <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nosso Processo </a>
+  <a href="#" target="_blank"> Nosso Processo </a>
 
   <h3>Arquitetura Padrão</h3>
 
-  <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nossa Arquitetura Padrão </a>
-
-
-
-
-
+<a href="#" target="_blank"> Nossa Arquitetura Padrão </a>
