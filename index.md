@@ -123,10 +123,14 @@
 
 <h3>Para Todos</h3>
 <ul>
-  <h4>Controle de Versão</h4>
-  <li>
+  <h4>Ferramentas e Tecnologias</h4>
+  <li><p>Gestão:
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
-    Comandos básicos do Git</a>
+    Comandos básicos do Git</a></p>
+  </li>
+  <li><p>Controle de versão:
+    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
+    Comandos básicos do Git</a></p>
   </li>
   <h4>Processo de desenvolvimento de Software</h4>
     <li>
