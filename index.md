@@ -131,16 +131,16 @@
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
     (Comandos básicos do Git) </a>
   </li>
-    <li>
+  <li>
     Servidor/Cloud: AWS ou Heroku
   </li>
-      <li>
+  <li>
    Back-end: Node.js, Express, Mocha, Supertest, Mongodb, PostgresSQL
   </li>
-      <li>
+  <li>
   Front-end: Vue.js, Vuetify, Cypress
   </li>
-      <li>
+  <li>
    CI/DI: Gitlab CI ou CircleCI
   </li>
 </ul>
