@@ -123,11 +123,11 @@
 
   <h3>Ferramentas e Tecnologias</h3>
 <ul>
-  <li>Gestão:
+  <li><b>Gestão:</b>
     <a href="https://dev.azure.com" target="_blank"> 
   Azure DevOps</a>
   </li>
-  <li>Controle de versão: Gitlab ou Github 
+  <li><b>Controle de versão:</b> Gitlab ou Github 
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
     (Comandos básicos do Git) </a>
   </li>
@@ -135,13 +135,13 @@
     <b>Servidor/Cloud:</b> AWS ou Heroku
   </li>
   <li>
-   Back-end: Node.js, Express, Mocha, Supertest, Mongodb, PostgresSQL
+   <b>Back-end:</b> Node.js, Express, Mocha, Supertest, Mongodb, PostgresSQL
   </li>
   <li>
-  Front-end: Vue.js, Vuetify, Cypress
+  <b>Front-end:</b> Vue.js, Vuetify, Cypress
   </li>
   <li>
-   CI/DI: Gitlab CI ou CircleCI
+   <b>CI/DI:</b> Gitlab CI ou CircleCI
   </li>
 </ul>
   <h3>Processo de desenvolvimento de Software</h3>
