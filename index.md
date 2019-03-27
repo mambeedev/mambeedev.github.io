@@ -124,13 +124,13 @@
 
   <h3>Ferramentas e Tecnologias</h3>
 <ul>
-  <li><p>Gestão:
-    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
-    Comandos básicos do Git</a></p>
+  <li><span>Gestão:
+    <a href="https://dev.azure.com" target="_blank"> 
+  Azure DevOps</a></span>
   </li>
-  <li><p>Controle de versão:
+  <li><span>Controle de versão: Gitlab ou Github 
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
-    Comandos básicos do Git</a></p>
+    (Comandos básicos do Git) </a></span>
   </li>
 </ul>
   <h3>Processo de desenvolvimento de Software</h3>
