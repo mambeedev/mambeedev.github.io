@@ -121,9 +121,9 @@
 
 <hr/>
 
-<h3>Para Todos</h3>
+
+  <h3>Ferramentas e Tecnologias</h3>
 <ul>
-  <h4>Ferramentas e Tecnologias</h4>
   <li><p>Gestão:
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
     Comandos básicos do Git</a></p>
@@ -132,15 +132,16 @@
     <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> 
     Comandos básicos do Git</a></p>
   </li>
-  <h4>Processo de desenvolvimento de Software</h4>
-    <li>
-    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nosso Processo </a>
-  </li>
-    <h4>Arquitetura Padrão</h4>
-    <li>
-    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nossa Arquitetura Padrão </a>
-  </li>
 </ul>
+  <h3>Processo de desenvolvimento de Software</h3>
+    <p>
+    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nosso Processo </a>
+  </p>
+    <h3>Arquitetura Padrão</h3>
+    <p>
+    <a href="https://gist.github.com/jesielviana/79b444d60933248e649d45e4ebbf0fb5" target="_blank"> Nossa Arquitetura Padrão </a>
+  </p>
+
 
 
 
