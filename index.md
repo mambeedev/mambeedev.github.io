@@ -1,4 +1,4 @@
-<link href="/css/style.css" rel="stylesheet">
+<link href="lab/css/style.css" rel="stylesheet">
 
 <p>Abaixo segue uma lista dos perfis que existem na Mambee.
 <span class="destaque">Se você é um mambeer ou deseja ser, estude e domine pelo menos uma das áreas listadas abaixo.</span></p>
